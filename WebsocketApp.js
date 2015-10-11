@@ -1,5 +1,5 @@
 var cookie       = require("cookie");
-var _            = require("../infrastructure/node_modules/underscore");
+var _            = require("underscore");
 var helpers      = require("../infrastructure/lib/helpers");
 var EventedClass = require("../infrastructure/lib/EventedClass");
 
